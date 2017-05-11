@@ -1,0 +1,23 @@
+Gereken bileþenler;
+-Arduino UNO
+-Breadbord
+-5110 LCD ekran
+-Nem ölçer
+-Potansiyometre
+-Buzzer
+-330  ohm direnç
+-Çeþitli jumper kablolar
+
+Ýþlevi,
+-Nem ölçerin batýrýldýðý topraðýn nemini ölçüp ekranda eþ zamanlý göstermek 
+ve yüzdelik nem oraný %10 un altýna düþtüðünde hem görsel hem iþitsel bilgi vermesi
+
+Düþünülen amacý;
+-Bitkinin nemini ölçüp eþ zamanlý göstermesi , bitki susuz kaldýðýnda -nem oraný düþtüðünde-  
+geri bilgi vererek bitkinin susuz kalmasýný önler ve sulama zamanlarýný düzenler
+
+Açýklamalar;
+-Potansiyometrenin amacý sistemi açýp kapatmak, potansiyometre bir tarafa çevrildiðinde her þey duruyor 
+ve kapanýyor.
+-Buzzer nem oraný yükselene kadar susmuyor -sistem kapatýlmazsa veya devre bozulmazsa-
+bu sayede bitkiyi sulamadan size rahat vermiyor :D

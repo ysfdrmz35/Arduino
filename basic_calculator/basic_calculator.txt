@@ -1,0 +1,23 @@
+Gereken bileþenler;
+-Arduino UNO
+-3 potansiyometre
+-Breadbord
+-5110 LCD ekran
+-Kýrmýzý led
+-Beyaz led
+-Buton
+-2 330 ohm direnç
+-çeþitli jumper kablolar
+
+Ýþlevi;
+- potansiyometrelerden aldýðý 0-100 arasý iki deðer ile basit matematiksel iþlemler yapmak 
+ve bunlarý LCD ekranda göstermek
+
+Açýklamalar;
+-Ýki potansiyometre, deðerleri ; diðeri, iþlemi belirliyor
+-Deðerlerin 0-100 arasýnda olmasý potansiyometreden rahat bir þekilde ayaralnabilmesi
+-Ýþlem ayarlandýktan sonra butona basýldýðýnda sonuç ekranda beliriyor
+-Ledlerin amacý: Beyaz led her zaman yanýyor ve amacý devrenin çalýþýyor olmasýný göstermesi
+kýrmýzý led butona basýldýðýnda yanýyor ve butona basýlmadýðýnda kapanýyor amacý da hesaplama
+ yapýldýðýný göstermesi 
+-Ekran deðerleri , iþlemi sonucu gösteriyor
